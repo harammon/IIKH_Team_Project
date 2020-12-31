@@ -1,4 +1,5 @@
-﻿# How to use executable file.
+# 19-2 OOP_Team_Project1
+# How to use executable file.
 ### Recommended OS is Windows 10.
 ---
 
