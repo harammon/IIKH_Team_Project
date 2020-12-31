@@ -1,4 +1,5 @@
-# 19-2 OOP_Team_Project1
+### 19-2 OOP_Team_Project1
+![제목 없음](https://user-images.githubusercontent.com/62413705/103409855-0416e700-4bac-11eb-8f88-ce2dc674f83b.png)
 # How to use executable file.
 ### Recommended OS is Windows 10.
 ---
